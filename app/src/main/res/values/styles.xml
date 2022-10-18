@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/negro</item>
+        <item name="colorPrimaryDark">@color/gris</item>
+        <item name="colorAccent">@color/negro</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:textColorSecondary">@color/blanco</item>
+    </style>
+
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/negro</item>
+    </style>
+
+    <!-- Dimensiones texto -->
+    <dimen name="textoExtraGrande">45dp</dimen>
+    <dimen name="textoGrande">30dp</dimen>
+    <dimen name="textoMedio">20dp</dimen>
+    <dimen name="textoChico">15dp</dimen>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="ProgressBarAccent" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorAccent">@color/celeste</item>
+    </style>
+</resources>

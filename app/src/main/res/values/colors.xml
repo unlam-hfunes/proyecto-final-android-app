@@ -1,0 +1,28 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+  <color name="primaryColor">#1d70b7</color>
+  <color name="primaryLightColor">#5f9eea</color>
+  <color name="primaryDarkColor">#004587</color>
+  <color name="secondaryColor">#c1c1c1</color>
+  <color name="secondaryLightColor">#f4f4f4</color>
+  <color name="secondaryDarkColor">#919191</color>
+  <color name="primaryTextColor">#ffffff</color>
+  <color name="secondaryTextColor">#000000</color>
+  <!--  Colores  -->
+  <color name="celeste">#46A4D4</color>
+  <color name="blanco">#FFFFFF</color>
+  <color name="negro">#000000</color>
+  <color name="gris">#232323</color>
+  <color name="gris_claro">#BDBDBD</color>
+  <color name="rojo">#DF013A</color>
+  <!--  Componentes  -->
+  <color name="boton">#5f9eea</color>
+  <color name="botonOk">#5cb85c</color>
+  <color name="botonCancel">#d9534f</color>
+  <color name="textoBoton">#FFFFFF</color>
+  <color name="titulo">#FFFFFF</color>
+  <color name="subtitulo">#46A4D4</color>
+  <color name="subtituloBackground">#FFFFFF</color>
+  <color name="texto">#FFFFFF</color>
+  <color name="hint">#AAAAAA</color>
+</resources>
